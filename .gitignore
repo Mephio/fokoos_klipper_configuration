@@ -1,0 +1,9 @@
+.env
+secrets.conf
+certs/
+logs/
+comms/
+moonraker.asvc
+systemd/
+database/
+gcodes/
